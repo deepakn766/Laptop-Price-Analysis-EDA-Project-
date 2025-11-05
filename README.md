@@ -11,7 +11,7 @@ Univariate, Bivariate, and Multivariate Analysis
 Data Visualization and Insight Generation
 Analytical storytelling for business understanding
 
-<a href="">dataset
+<a href="https://github.com/deepakn766/Laptop-Price-Analysis-EDA-Project-/blob/main/extracted_data_laptop.csv">dataset</a>
 
 
 ⚙️ Technologies Used
@@ -36,6 +36,8 @@ Processor_Types
 Has_Offer
 
 Removed outliers and missing data for clean visualizations.
+
+<a href="https://github.com/deepakn766/Laptop-Price-Analysis-EDA-Project-/blob/main/extracted_data_laptop.csv">cleaned_dataset</a>
 
 🔍 Exploratory Data Analysis
 1️⃣ Univariate Analysis
