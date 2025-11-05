@@ -37,7 +37,8 @@ Has_Offer
 
 Removed outliers and missing data for clean visualizations.
 
-<a href="https://github.com/deepakn766/Laptop-Price-Analysis-EDA-Project-/blob/main/extracted_data_laptop.csv">cleaned_dataset</a>
+
+<a href="https://github.com/deepakn766/Laptop-Price-Analysis-EDA-Project-/blob/main/cleaned_amazon_laptops.csv">cleaned_dataset</a>
 
 🔍 Exploratory Data Analysis
 1️⃣ Univariate Analysis
@@ -61,6 +62,9 @@ Brand vs Offer — Lenovo and Acer provide higher discounts.
 
 Brand + Processor + RAM combinations influencing price.
 Offers vs Value_for_Money vs Rating correlation.
+
+<a href="">project_script</a>
+
 
 📈 Key Insights
 
