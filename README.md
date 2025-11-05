@@ -63,7 +63,7 @@ Brand vs Offer — Lenovo and Acer provide higher discounts.
 Brand + Processor + RAM combinations influencing price.
 Offers vs Value_for_Money vs Rating correlation.
 
-<a href="">project_script</a>
+<a href="https://github.com/deepakn766/Laptop-Price-Analysis-EDA-Project-/blob/main/Amazon_EDA_1.ipynb">project_script</a>
 
 
 📈 Key Insights
