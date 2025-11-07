@@ -21,8 +21,8 @@ Pandas	Data cleaning & analysis
 NumPy	Numerical operations
 Matplotlib / Seaborn	Data visualization
 Jupyter Notebook	Interactive environment
-🧹 Data Cleaning & Preparation
 
+🧹 Data Cleaning & Preparation
 Steps performed:
 Loaded dataset using pandas.
 Checked for nulls, duplicates, and inconsistent entries.
